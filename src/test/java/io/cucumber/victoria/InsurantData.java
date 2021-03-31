@@ -67,11 +67,11 @@ public class InsurantData {
           .click();
     } else if (string.contains("Bungee Jumping")) {
       Settings.seletorQueryCss(
-          "#insurance-form>div>section:nth-child(2)>div.field.idealforms-field.idealforms-field-checkbox.invalid>p>label:nth-child(2)")
+          "#insurance-form>div>section:nth-child(2)>div.field.idealforms-field.idealforms-field-checkbox>p>label:nth-child(2)")
           .click();
     } else if (string.contains("Cliff Diving")) {
       Settings.seletorQueryCss(
-          "#insurance-form>div>section:nth-child(2)>div.field.idealforms-field.idealforms-field-checkbox.invalid>p>label:nth-child(3)")
+          "#insurance-form>div>section:nth-child(2)>div.field.idealforms-field.idealforms-field-checkbox>p>label:nth-child(3)")
           .click();
     } else if (string.contains("Skydiving")) {
       Settings.seletorQueryCss(
