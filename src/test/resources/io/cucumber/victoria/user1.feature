@@ -1,5 +1,5 @@
-@ignore
 #language:pt
+@ignore
 Funcionalidade: Acessar o site Tricentis, preencher o formulario e ver a mensagem de sucesso
 	O objetivo é realizar uma solicitação de seguro de veiculo
 

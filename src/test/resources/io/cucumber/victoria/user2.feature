@@ -32,7 +32,7 @@ Funcionalidade: Acessar o site Tricentis, preencher o formulario e ver a mensage
 		E preencho o campo City "São Paulo"
     #tirar o if e por um for ou n, mas é acumutivo
 		E preencho o campo Occupation "Farmer"
-		E preencho o campo Hobbies "Cliff Diving" 
+		E preencho o campo Hobbies "Other" 
 		E preencho o campo Website "www.teste2.com"
 		E preencho o campo Picture /pasta/foto e clico no botao next
 
