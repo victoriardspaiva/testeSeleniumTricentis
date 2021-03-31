@@ -1,4 +1,3 @@
-@ignore
 #language:pt
 Funcionalidade: Acessar o site Tricentis, preencher o formulario e ver a mensagem de sucesso
 	O objetivo é realizar uma solicitação de seguro de veiculo
@@ -37,7 +36,7 @@ Funcionalidade: Acessar o site Tricentis, preencher o formulario e ver a mensage
 		E preencho o campo Picture /pasta/foto e clico no botao next
 
 	Cenario: Preencher o formulario na aba Enter Product Data e pressionar next
-		Quando preencho o campo Start Date "05/01/2021"
+		Quando preencho o campo Start Date "05/01/2022"
 		E preencho o campo Insurance Sum "7.000.000,00"
 		E preencho o campo Merit Rating "Bonus 3"
 		E preencho o campo Damage Insurance "Partial Coverage"
